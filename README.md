@@ -1,10 +1,22 @@
 # Big O Assessment
 
- ## O Boy! It's time to evaluate your understanding of Big O Notation! 
+ O Boy! It's time to evaluate your understanding of Big O Notation! 
+ 
+ ##
  
   PART ONE: Please answer the following questions:
+  
+ 1. Describe the purpose of Big 0.
  
- 1. Which of the following shows Big O time complexity in order?
+    **Answer Here**:
+   
+ 
+ 2. What 2 things does it measure?
+ 
+    **Answer Here**:
+   
+ 
+ 3. Which of the following shows Big O time complexity in order?
     
     a) O(1), O(n log n), O(log n), O(n), O(n^2)
     
@@ -16,7 +28,7 @@
     
     
 
-2. Which of these algorithm(s) run in O(log n) time?
+4. Which of these algorithm(s) run in O(log n) time?
     
    Binary Search
    
@@ -30,7 +42,7 @@
    
    
    
-3. Select the best time complexity that even the most efficient sort algorithm can have.
+5. Select the best time complexity that even the most efficient sort algorithm can have.
 
     O(log n)
     
@@ -43,12 +55,12 @@
     **Answer Here**:
     
     
- 4. Describe what sets these these 3 complexities apart from each other: O(1), O(n) and O(n^2)
+ 6. Describe what sets these these 3 complexities apart from each other: O(1), O(n) and O(n^2)
  
     **Answer Here**:
     
 
-5. How would you recognize O(log n) and O(n log n) time complexities in a function?
+7. How would you recognize O(log n) and O(n log n) time complexities in a function?
 
     **Answer Here**:
     
