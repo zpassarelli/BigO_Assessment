@@ -1,8 +1,6 @@
 # Big O Assessment
 
- O Boy! It's time to evaluate your understanding of Big O Notation! 
- 
- ##
+ ## O Boy! It's time to evaluate your understanding of Big O Notation! 
  
   PART ONE: Please answer the following questions:
  
