@@ -1,4 +1,4 @@
-# BigO_Assessment
+# Big O Assessment
 
  O Boy! It's time to evaluate your understanding of Big O Notation! 
  
@@ -41,3 +41,14 @@
     O(n^2)
     
     **Answer Here**:
+    
+    
+    
+    PART TWO: In a new file, write examples of algorithms/functions for each of the Big O complexities below. 
+    Upload your file to your repository when complete and submit in Learn --> Exercises.
+    
+    1. O(1)
+    
+    2. O(n)
+    
+    3. O(n^2)
