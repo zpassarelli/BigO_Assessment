@@ -2,6 +2,8 @@
 
  O Boy! It's time to evaluate your understanding of Big O Notation! 
  
+ ##
+ 
   PART ONE: Please answer the following questions:
  
  1. Which of the following shows Big O time complexity in order?
@@ -52,6 +54,7 @@
 
     **Answer Here**:
     
+  ##
     
   PART TWO: In a new file, write examples of algorithms/functions for each of the Big O complexities below. 
     Upload your file to your repository when complete and submit in Learn --> Exercises.
