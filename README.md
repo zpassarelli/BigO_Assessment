@@ -8,12 +8,16 @@
   
  1. Describe the purpose of Big 0.
  
-    **Answer Here**:
+    > Answer here
+
+---
    
  
  2. What 2 things does it measure?
  
-    **Answer Here**:
+    > Answer here
+
+---
    
  
  3. Which of the following shows Big O time complexity in order?
@@ -24,7 +28,9 @@
     
     c) O(1), O(log n), O(n log n), O(n), O(n^2)
 
-    **Answer Here**: 
+    > Answer here
+
+---
     
     
 
@@ -38,7 +44,9 @@
    
    Linear Search
    
-   **Answer Here**:
+   > Answer here
+
+---
    
    
    
@@ -52,17 +60,23 @@
     
     O(n^2)
     
-    **Answer Here**:
+    > Answer here
+
+---
     
     
  6. Describe what sets these these 3 complexities apart from each other: O(1), O(n) and O(n^2)
  
-    **Answer Here**:
+    > Answer here
+
+---
     
 
 7. How would you recognize O(log n) and O(n log n) time complexities in a function?
 
-    **Answer Here**:
+    > Answer here
+
+---
     
   ##
     
