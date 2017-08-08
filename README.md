@@ -43,8 +43,17 @@
     **Answer Here**:
     
     
+ 4. Describe what sets these these 3 complexities apart from each other: O(1), O(n) and O(n^2)
+ 
+    **Answer Here**:
     
-    PART TWO: In a new file, write examples of algorithms/functions for each of the Big O complexities below. 
+
+5. How would you recognize O(log n) and O(n log n) time complexities in a function?
+
+    **Answer Here**:
+    
+    
+  PART TWO: In a new file, write examples of algorithms/functions for each of the Big O complexities below. 
     Upload your file to your repository when complete and submit in Learn --> Exercises.
     
     1. O(1)
