@@ -67,14 +67,17 @@
 
  6. Describe what sets these these 3 complexities apart from each other: O(1), O(n) and O(n^2)
 
-    > Answer here
+    > O(1) is constant time, this means that it has a consistent action and times that it performs that action.
+    O(n) is linear time which takes a consistently incrementing amount of time based upon the length or size of it's input.
+    O(n^2) is quadratic time which takes n^2 time based upon two time and or length based actions.
+
 
 ---
 
 
 7. How would you recognize O(log n) and O(n log n) time complexities in a function?
 
-    > Answer here
+    > Both are sorting algorithms. O(n log n) will sort and then possibly loop after sorting.
 
 ---
 
@@ -94,20 +97,23 @@
 
     2. O(n)
 
-    function countTo(number) {
-      for(var i = 0; i <= number; i++) {
-        console.log(i);
-      };
-    };
-    countTo(20);
+    function sum(array) {
+      let sum = 0;
+      for(var i = 0; i < array.length; i++) {
+        sum += array[i]
+      }
+      return sum;
+    }
+
+    sum([1,2,3]);
 
     3. O(n^2)
 
     var string = "Mississippi";
 
     function containsDups(string) {
-      for(var i = 0; i <= string.length; i++){
-        for (var j = 1; j <=string.length; j++){
+      for(var i = 0; i < string.length; i++){
+        for (var j = 1; j < string.length; j++){
           if (i === j) {
             console.log('true');
           }
