@@ -8,14 +8,14 @@
   
  1. Describe the purpose of Big 0.
  
-    > Answer here
+    > Big O deals with measuring the time and space efficiency of algorithms when run in the worst possible scenario, that is, when a sorting or searching algorithm must iterate through the entire data set to accomplish its goal.
 
 ---
    
  
  2. What 2 things does it measure?
  
-    > Answer here
+    > The time it takes and the memory space needed for an algorithm to do its task.
 
 ---
    
@@ -28,7 +28,7 @@
     
     c) O(1), O(log n), O(n log n), O(n), O(n^2)
 
-    > Answer here
+    > C shows the order of Big O time complexity from most efficient to least efficient.
 
 ---
     
@@ -44,7 +44,7 @@
    
    Linear Search
    
-   > Answer here
+   > Binary Search
 
 ---
    
