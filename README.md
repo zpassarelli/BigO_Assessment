@@ -60,21 +60,21 @@
     
     O(n^2)
     
-    > Answer here
+    > O(n)
 
 ---
     
     
  6. Describe what sets these these 3 complexities apart from each other: O(1), O(n) and O(n^2)
  
-    > Answer here
+    > O(1) is constant and will have the same complexity regardless of the data size. O(n) and O(n^2) have complexities which are dependent on the data size, and O(n^2) increases at an exponential rate with the data size. 
 
 ---
     
 
 7. How would you recognize O(log n) and O(n log n) time complexities in a function?
 
-    > Answer here
+    > O(log n) complexities usually deal with binary search methods, and O(n) complexities deal with looping through the data. Therefore, an O(n log n) complexity method would contain both binary searching and looping.
 
 ---
     
