@@ -28,7 +28,7 @@
     
     c) O(1), O(log n), O(n log n), O(n), O(n^2)
 
-    > C shows the order of Big O time complexity from most efficient to least efficient.
+    > **B** shows the order of Big O time complexity from most efficient to least efficient.
 
 ---
     
